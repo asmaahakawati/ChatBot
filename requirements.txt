@@ -1,0 +1,7 @@
+pandas
+re
+random
+numpy
+tensorflow
+keras
+flask
